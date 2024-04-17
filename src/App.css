@@ -1,0 +1,27 @@
+#root {
+  width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  text-align: center;
+  background-color: rgb(205, 214, 221);
+  box-shadow: 10px 15px 19px -4px;
+  border-radius: 30px;
+  border: solid 1px #bebebe;
+}
+
+.container{
+  position: relative;
+}
+
+.title {
+  font-size: 50px;
+  color: black;
+  margin: 0;
+}
+
+.iconTitle {
+  position: absolute;
+  top: 12px;
+  right: 112px;
+}
+
